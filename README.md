@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫About Me :
-I am a junior developer currently learning different technology stacks including :
+I am a fullstack developer currently learning different technology stacks including :
   #### - Programming languages, 
   #### - Hosting services, 
   #### - Frameworks, Platforms and Libraries, 
