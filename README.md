@@ -21,7 +21,7 @@ I am a fullstack developer currently learning different technology stacks includ
   #### - Hosting services, 
   #### - Frameworks, Platforms and Libraries, 
   #### - Servers, Satabases, 
-  #### - Sesign and also the Machine Learning and other tools. 
+  #### - Design
 I am open to proposals for work, collaboration or just conversation 😄
 
 ## 🌐Socials
